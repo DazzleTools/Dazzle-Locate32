@@ -20,13 +20,13 @@
 ## Installation
 
 ```bash
-pip install $PACKAGE_NAME
+pip install Dazzle_Locate32
 ```
 
 ### From Source
 ```bash
-git clone https://github.com/$GITHUB_ORG/$PROJECT_NAME.git
-cd $PROJECT_NAME
+git clone https://github.com/DazzleTools/Dazzle-Locate32.git
+cd Dazzle-Locate32
 pip install -e .
 ```
 

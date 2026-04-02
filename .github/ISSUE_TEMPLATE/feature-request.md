@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for $PROJECT_NAME
+about: Suggest an idea for Dazzle-Locate32
 title: "[FEATURE] "
 labels: enhancement
 assignees: ''

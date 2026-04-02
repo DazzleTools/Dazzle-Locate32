@@ -1,4 +1,4 @@
-"""Shared test fixtures for $PROJECT_NAME."""
+"""Shared test fixtures for Dazzle-Locate32."""
 
 import pytest
 from pathlib import Path
